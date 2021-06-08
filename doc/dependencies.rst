@@ -10,7 +10,7 @@ Required
 - Numpy
 - Matplotlib
 - Make or Snakemake
-
+- Coffee
 
 Optional
 --------
